@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Our local databases (each laptop makes its own)
+*.db
